@@ -15,5 +15,6 @@ module.exports = {
     '@typescript-eslint/no-floating-promises': ['error', {
       ignoreIIFE: true
     }],
+    'no-void': 'off'
   }
 }
